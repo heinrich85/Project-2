@@ -1,0 +1,11 @@
+{
+    "films": [
+        {
+            "title": "John Wick",
+            "desc": "John Wick is an American neo-noir action film series and media franchise created by Derek Kolstad. It centers on the titular character portrayed by actor Keanu Reeves. Wick is a legendary hitman who is reluctantly drawn back into the criminal underworld after retiring. The franchise began with the release of John Wick in 2014, followed by three sequels: Chapter 2 in 2017, Chapter 3 \u2013 Parabellum in 2019, and Chapter 4 in 2023.",
+            "url": "https://www.imdb.com/title/tt2911666/",
+            "photo": "AgACAgIAAxkBAAMeZqSWka_O2rb-3edCBrwRnLLgjAwAAhDdMRsU9iBJMcFK5GIRuM4BAAMCAAN4AAM1BA",
+            "rating": "80/100"
+        }
+    ]
+}
